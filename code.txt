@@ -1,0 +1,1 @@
+code=input("for adding two numbers")
