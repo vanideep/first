@@ -1,1 +1,5 @@
 hungry=input("are u hungry")
+if hungry=="yes"
+  printf("eat samosa")
+else
+  printf("do u r work")
